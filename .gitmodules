@@ -1,0 +1,3 @@
+[submodule "side-a"]
+	path = side-a
+	url = https://github.com/44103/trial-git-submodule-a.git
